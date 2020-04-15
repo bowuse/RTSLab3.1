@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RTSLab3.1</string>
+    <string name="result">%d = %d * %d</string>
+</resources>
